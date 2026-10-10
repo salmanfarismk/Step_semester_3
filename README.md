@@ -1,5 +1,31 @@
 # Step_semester_3
 
+## Date: 29-08-2026
+
+**Today's Work:**
+- Completed Week 4 / Session 4 Practice / Live-Coding Problems under `feature/session_4`:
+  1. Two Sum (`TwoSum.java`)
+  2. Best Time to Buy and Sell Stock (`BestTimeToBuyAndSellStock.java`)
+  3. Contains Duplicate (`ContainsDuplicate.java`)
+  4. Merge Two Sorted Arrays (`MergeTwoSortedArrays.java`)
+  5. Rotate Array (`RotateArray.java`)
+- Completed Week 4 / Session 4 Assignment Problems under `feature/session_4`:
+  1. Product of Array Except Self (`ProductOfArrayExceptSelf.java`)
+  2. Maximum Subarray (`MaximumSubarray.java`)
+  3. 3Sum (`ThreeSum.java`)
+  4. Subarray Sum Equals K (`SubarraySumEqualsK.java`)
+  5. Find Minimum in Rotated Sorted Array (`FindMinimumInRotatedSortedArray.java`)
+- Followed clean branching model: branched from `develop` into `feature/session_4` under `array/class_problems` and `array/assigment_problems`.
+
+**Next Session Plan:**
+- Begin Week 5 / Session 5 problems upon release.
+- Create `feature/session_5` branch from `develop`.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 28-08-2026
 
 **Today's Work:**
