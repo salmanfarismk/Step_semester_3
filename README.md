@@ -1,5 +1,31 @@
 # Step_semester_3
 
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Week 5 / Session 5 Practice / Live-Coding Problems under `feature/session_5`:
+  1. Hackathon Score Curve Booster (`HackathonScoreCurveBooster.java`)
+  2. Duplicate Team Name Finder (`DuplicateTeamNameFinder.java`)
+  3. Top-3 Podium Finder (`TopThreePodiumFinder.java`)
+  4. Hackathon Seating Grid Optimizer (`HackathonSeatingGridOptimizer.java`)
+  5. Placement Drive Shortlisting & Ranking Engine (`PlacementDriveRankingEngine.java`)
+- Completed Week 5 / Session 5 Assignment Problems under `feature/session_5`:
+  1. Fantasy Team Score Multiplier (`FantasyTeamScoreMultiplier.java`)
+  2. Duplicate Player Pick Checker (`DuplicatePlayerPickChecker.java`)
+  3. Top Performer Tracker (`TopPerformerTracker.java`)
+  4. Match Day Grid Analyzer (`MatchDayGridAnalyzer.java`)
+  5. Fantasy League Auto-Draft Ranking Engine (`FantasyLeagueRankingEngine.java`)
+- Followed clean branching model: branched from `develop` into `feature/session_5` under `arrays_and_methods/class_problems` and `arrays_and_methods/assigment_problems`.
+
+**Next Session Plan:**
+- Begin Week 6 / Session 6 problems upon release.
+- Create `feature/session_6` branch from `develop`.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-08-2026
 
 **Today's Work:**
