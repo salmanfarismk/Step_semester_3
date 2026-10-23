@@ -3,6 +3,32 @@
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Completed Week 7 / Session 7 Practice / Live-Coding Problems under `feature/session_7`:
+  1. The Piggy Bank (`PiggyBank.java`)
+  2. The Quiz Scorecard (`Scorecard.java`)
+  3. The Nickname Tag (`NameTag.java`)
+  4. The Locker Code (`Locker.java`)
+  5. The Attendance Sheet (`AttendanceSheet.java`)
+- Completed Week 7 / Session 7 Assignment Problems under `feature/session_7`:
+  1. The Health Bar (`Character.java`)
+  2. The Playlist (`Playlist.java`)
+  3. The Password Checker (`PasswordChecker.java`)
+  4. The Traffic Light (`TrafficLight.java`)
+  5. The Shopping Cart (`Cart.java`)
+- Followed clean branching model: branched from `develop` into `feature/session_7` under `encapsulation/class_problems` and `encapsulation/assigment_problems`.
+
+**Next Session Plan:**
+- Begin Week 8 / Session 8 problems upon release.
+- Create `feature/session_8` branch from `develop`.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
 - Completed Week 6 / Session 6 Practice / Live-Coding Problems under `feature/session_6`:
   1. Student Placement Record Management (`StudentPlacementRecordManagement.java`)
   2. Hostel Mess Wallet Management (`HostelMessWalletManagement.java`)
